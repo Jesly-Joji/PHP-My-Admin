@@ -1,0 +1,6 @@
+Installation
+1) MySQL port 3306 occupied error
+Run Xammp as Run as Administrator
+Video Link : https://youtu.be/bsDzjy85Lpw?si=mdON0p2ZXDG9aZoR
+
+2)
