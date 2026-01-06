@@ -3,4 +3,5 @@ Installation
 Run Xammp as Run as Administrator
 Video Link : https://youtu.be/bsDzjy85Lpw?si=mdON0p2ZXDG9aZoR
 
-2)
+2) MySQL said Cannot connect invalid settings error | XAMPP phymyadmin
+Video Link:https://youtu.be/R2PnyHQI3ZI?si=4isVUXF4_4lp6WnK
