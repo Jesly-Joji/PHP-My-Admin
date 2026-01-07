@@ -5,6 +5,7 @@ Video Link : https://youtu.be/bsDzjy85Lpw?si=mdON0p2ZXDG9aZoR
 
 2) ERROR-2 MySQL said Cannot connect invalid settings error | XAMPP phymyadmin
 Video Link:https://youtu.be/R2PnyHQI3ZI?si=4isVUXF4_4lp6WnK
+
 3) ERROR-3
 Cannot connect: invalid settings.
 mysqli::real_connect(): (HY000/1045): Access denied for user 'pma'@'localhost' (using password: NO)
@@ -12,3 +13,7 @@ Connection for controluser as defined in your configuration failed.
 mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)
 phpMyAdmin tried to connect to the MySQL server, and the server rejected the connection. You should check the host, username and password in your configuration and make sure that they correspond to the information given by the administrator of the MySQL server.
 Video Link:
+
+4) ERROR-4 [while programming connectiong it with code]
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+SOLUTION-> Change the default password using web and make modifications in config file as well
